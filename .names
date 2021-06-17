@@ -10,7 +10,7 @@ local SupportedEmojis = {'😬','🦇','⭐','🖤','💫','🌕','🥶','🥶�
 
 --\\ Don't mess with anything below this
 function names()
-    for _,Player in pairs(game:GetService('Players'):GetChildren()) do
+    --[[for _,Player in pairs(game:GetService('Players'):GetChildren()) do
         if game.Workspace.Players:FindFirstChild(Player.Name) then
             if not Player.Character.UpperTorso:FindFirstChild('OriginalSize') then 
                 if not string.find(Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName, '%[') then
@@ -18,7 +18,7 @@ function names()
                 end
             end
         end 
-    end
+    end]]
     for _,Player in pairs(game:GetService('Players'):GetChildren()) do
         for i,v in pairs(SupportedEmojis) do
             local CheckEmoji = v
