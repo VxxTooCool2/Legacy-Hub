@@ -1,6 +1,6 @@
 **__Legacy Hub__**
 
-Legacy Hub | The only script you'll ever need.
+Legacy Hub | The only script you'll ever need. 
 Version | 3.0.3
 
 **__Credits__**
