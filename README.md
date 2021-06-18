@@ -1,7 +1,7 @@
 **__Legacy Hub__**
 
 Legacy Hub | The only script you'll ever need.
-Version | 3.0.3
+Version | 1.0
 
 **__Credits__**
 * [Compwnter#5640] - Owner | Scripter <br/>
