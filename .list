@@ -1,5 +1,6 @@
 {
     '4483381587': {
-        'name': '.baseplate';
+        'name': 'a literal baseplate.';
+        'code': 'baseplate';
     };
 };
