@@ -1,14 +1,5 @@
 {
     "286090429": {
-        "ScriptName": "Arsenal.lua",
-        "GameName": "Arsenal"
+        "name": "baseplate",
     },
-    "606849621": {
-        "ScriptName": "Jailbreak.lua",
-        "GameName": "Jailbreak 😡😡💵💵"
-    },
-    "1165047394": {
-        "ScriptName": "Infection.lua",
-        "GameName": "Infection Inc."
-    }
 }
