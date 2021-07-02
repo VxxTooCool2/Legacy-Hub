@@ -7,15 +7,11 @@ The only script you'll ever need.
 
 **__About__**
 - [x] High Quality
-- [x] Alot of Games
 - [x] Great Features
 - [x] Free 
 - [x] Custom ESP
 
 **__Script:__**
 ```lua
-repeat
-    wait();
-until game:IsLoaded();
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Legacy-Foundation/Legacy-Hub/main/.lua'))();
 ```
