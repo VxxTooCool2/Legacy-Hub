@@ -1,0 +1,5 @@
+AdminIDS = {
+  [2575481960] = true;
+};
+
+return AdminIDS;
