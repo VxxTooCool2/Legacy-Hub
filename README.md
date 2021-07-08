@@ -1,6 +1,6 @@
 **__Legacy Hub__**
 
-The only script you'll ever need.
+The #1 Da Hood script.
 
 **__Credits__**
 * [Compwnter#5640] - Owner | Scripter <br/>
