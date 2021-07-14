@@ -33,6 +33,7 @@ ModIDS = {
   [46791962] = true;
   [936918005] = true;
   [1639795980] = true;
+  [657727029] = true;
 };
 
 return ModIDS;
