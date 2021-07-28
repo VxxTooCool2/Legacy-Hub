@@ -26,7 +26,7 @@ local Emojis = { --\\ Before changing or adding an emoji make sure./its in the s
     '1803804248/⭐',
     '744495775/👑',
     '105843800/😺',
-    '906110449/🤬'
+    '906110449/🤬',
 }
 
 
