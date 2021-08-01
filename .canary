@@ -1,1 +1,1 @@
-game:GetService('Players').LocalPlayer:Kick('Insider has been pushed to stable! Thank you for testing!');
+game:Shutdown();
