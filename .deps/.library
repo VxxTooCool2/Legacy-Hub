@@ -112,6 +112,7 @@ end
 
 local function ScrollingFrame()
 	local NewScrollingFrame = Instance.new("ScrollingFrame")
+	NewScrollingFrame.ScrollingEnabled = true
 	NewScrollingFrame.BackgroundTransparency = 1
 	NewScrollingFrame.BorderSizePixel = 0
 	NewScrollingFrame.ScrollBarThickness = 0
