@@ -1,1 +1,0 @@
-game:GetService('CoreGui')['Legacy Hub'].ContainerFrame.MainFrame.MenuBar.CanvasSize = UDim2.new(0, game:GetService('CoreGui')['Legacy Hub'].ContainerFrame.MainFrame.MenuBar.UIListLayout.AbsoluteContentSize.X, 0, game:GetService('CoreGui')['Legacy Hub'].ContainerFrame.MainFrame.MenuBar.UIListLayout.AbsoluteContentSize.Y);
